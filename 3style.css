@@ -1,0 +1,19 @@
+body{
+  background-image: url(john-nupp-ueNeiGM-5SM-unsplash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  color: rgb(0, 0, 0);
+}
+
+a{
+  color: rgb(0, 0, 0);
+
+  background-color: white;
+}
+
+strong{
+  background-color: white;
+}

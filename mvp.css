@@ -1,0 +1,43 @@
+a{
+  color: rgb(255, 0, 0);
+}
+
+h1{
+  text-align: center;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  flex: 1;
+}
+
+article {
+  flex: 1;
+}
+
+nav,
+aside {
+  /* 12em is the width of the side columns */
+  flex: 0 0 30em;
+}
+
+/* Add Colors and spacing to make it look like the picture */
+body {
+  padding: 0;
+  margin: 0;
+}
+header,
+nav,
+article,
+aside,
+footer {
+  padding: 10px;
+}
+
+
