@@ -1,15 +1,15 @@
 header {
-  background-color: #00ff37;
+  background-color: #ff9100;
 }
 nav {
-  background-color: red;
+  background-color: rgb(246, 255, 146);
 }
 article {
-  background-color: yellow;
+  background-color: rgb(246, 255, 146);
 }
 aside {
-  background-color: blue;
+  background-color: rgb(246, 255, 146);
 }
 footer {
-  background-color: #00ff37;
+  background-color: #ff9100;
 }
